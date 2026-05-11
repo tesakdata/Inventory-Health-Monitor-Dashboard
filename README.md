@@ -1,6 +1,6 @@
 # Inventory Health Monitor Dashboard
 
-**Supply Chain Analytics | Inventory Optimization | Excel Dashboard**
+**Overview**
 
 The Inventory Health Monitor Dashboard is a Supply Chain Analytics and Inventory Optimization project developed to monitor stock health, reorder exposure, inventory movement, and product lifecycle performance across a multi-category inventory portfolio.
 
@@ -116,15 +116,35 @@ Evenly spread across turnover bands (1–20 up to 81–100), suggesting limited 
 - **Lifecycle Management**: Launch liquidation or reactivation plan for obsolete inventory
 
 
-### 4. Analysis & Dashboard
-Built using Pivot Tables, Pivot Charts, Slicers, and KPI cards in Microsoft Excel.
 
 ---
 
 
-## Conclusion
-This Inventory Health Monitor Dashboard demonstrates how data-driven inventory analysis can improve operational visibility, strengthen replenishment planning, and support more efficient inventory management decisions across the supply chain.
-The insights generated from the dashboard provide a strong foundation for reducing stockout exposure, optimizing stock allocation, improving inventory turnover performance, minimizing dead stock accumulation, and enabling more proactive, data-driven inventory decision-making.
+## Business Value Delivered
+
+
+This dashboard helps organization:
+
+- Improve inventory visibility
+- Reduce stockout exposure
+- Optimize stock allocation
+- Improve inventory turnover performance
+- Reduce dead stock accumulation
+- Strengthen replenishment planning
+- Support data-driven inventory decisions
 
 ---
+## Author
+
+**Akintunde Teslim Akinmuyiwa**  
+Supply Chain Analyst | Procurement Specialist | Operations Analyst
+
+> Turning supply chain data into actionable strategies for better performance and lower risk.
+
+---
+### Dashboard 1: Inventory Health Analysis
+<p align="left">
+  <img src="https://cdn.prod.website-files.com/650ad291fd6cf342753e6a79/6a017bd582a06e30229c9e1f_Screenshot%20(39).png" alt="Profile Banner" width="100%"/>
+</p>
+
 
